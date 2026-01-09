@@ -1,3 +1,5 @@
 rencana konten
 1. javascript
+- web
+-css
   2.editing
