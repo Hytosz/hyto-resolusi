@@ -3,3 +3,4 @@ hyto resolusi
   2. css
   3. laravel
   4.javascript
+  5. web
